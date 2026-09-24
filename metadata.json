@@ -1,0 +1,6 @@
+{
+  "name": "Aura Clinic - RFM Retention Suite",
+  "description": "Aesthetic Clinic Intelligence, RFM Patient Segmentation, Treatment Retention & Automated Medical Recall Suite",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
